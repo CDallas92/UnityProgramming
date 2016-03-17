@@ -1,0 +1,66 @@
+TopDown Game Progress
+
+
+
+Level 1
+==============================================================
+
+	Optional: Kill Alien In bathroom / Dont Kill
+	Optional: Find Dog?
+Go Outside
+
+
+
+
+Level 2
+==============================================================
+
+Progress Into Garden
+	Optional: Investigate Garden
+
+Trigger Holo-Bridge
+
+Enter Ship
+
+
+
+Level 3
+==============================================================
+
+Main Entrance -- COMBAT ENGAGED
+
+Hallway 
+
+Reception Room - Press Button To Open Armoury
+	Optional: Explore Trophy Room 
+
+Armoury 
+	Acquire Weapons Upgrade To Break Doors
+	Optional: Explore Prison Cells
+
+Break Generator Door
+	Destroy Generators To Acess Prison Control Room
+
+	
+Enter Prison Control Room
+	Acquire Key
+
+Enter Loadout Room
+	Acquire Code For Comms Room
+	Optional: Weapon Upgrade In Sleeping Chamber
+
+Enter Comms Room
+	Destroy Main Computer
+	Gain Access To Hostage Room
+
+Enter Hostage Room
+	Optional: Destroy Device
+ 			Display Tell Of Which Hostage Is Real
+	Optional: Kill Correct Clone
+			Own Dog Barking
+	Optional: Kill Own Dog
+			Clone Dog Silent.
+	Optional: Take Both
+			Own Dog Barking
+
+Leave Hostage Room -- Full Combat, Spawning, Enemies
