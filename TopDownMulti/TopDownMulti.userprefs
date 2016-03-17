@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Terrorist_Health.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Terrorist_Health.cs" Line="51" Column="37" />
+      <File FileName="Assets\Scripts\GrenadeScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerMovementForce.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\P1_AmmoScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\BulletScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DeaglePenetration.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ShotgunShells.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

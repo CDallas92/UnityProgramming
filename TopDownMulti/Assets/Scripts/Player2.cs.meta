@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 72fff0383b4644c4c963464f969261b7
+timeCreated: 1452659454
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - BulletPrefab: {fileID: 112478, guid: 9427eaf60c7f48e4eaa84769026c1937, type: 2}
+  - ShellPrefab: {fileID: 138242, guid: 9cd484ac07b6fa14aae0bcacf58730e9, type: 2}
+  - LazurPrefab: {fileID: 158470, guid: 880ff2b2faeee4843a980eccca705121, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
